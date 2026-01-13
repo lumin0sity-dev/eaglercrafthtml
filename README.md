@@ -7,4 +7,4 @@ you can dupe this link (make a new link to escape blocking) by
 3. use copilot to generate a new link (<your github username here>.github.io)
 4. if it doesn't work, try making a custom domain.
 if these steps dont work, then i'm dumb & you should use copilot
-------------------------<(*^--...--^*)>------------------------
+
